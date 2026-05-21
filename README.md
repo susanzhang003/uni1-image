@@ -5,7 +5,7 @@ A utility package for [Uni-1](https://uni-1.app/).
 ## Installation
 
 ```bash
-go get github.com/susanzhang003/uni1-image-go
+go get github.com/susanzhang003/uni1-image
 ```
 
 ```bash
