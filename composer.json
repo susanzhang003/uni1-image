@@ -1,0 +1,14 @@
+{
+    "name": "susanzhang003/uni1-image",
+    "description": "Uni-1 image tools and utilities",
+    "type": "library",
+    "homepage": "https://uni-1.app/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "susanzhang003",
+            "homepage": "https://uni-1.app/"
+        }
+    ],
+    "require": {}
+}
